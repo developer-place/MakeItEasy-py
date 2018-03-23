@@ -1,5 +1,8 @@
 # MakeItEasy-py
-Please propose code for these repositories, to change the programming easier
+#Future Project (in development)
+
+
+Require:
 ```sh
 $ apt install python3
 ```
